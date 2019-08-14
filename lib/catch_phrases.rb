@@ -14,3 +14,7 @@ def link
   puts status
 end
 
+def fox
+  status = "Do a Barrel Roll!"
+  puts status
+end
