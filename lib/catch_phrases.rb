@@ -14,3 +14,4 @@ def link
   puts status
 end
 
+$any_phrase = "Do a "
