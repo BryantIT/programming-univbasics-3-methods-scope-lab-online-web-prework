@@ -14,4 +14,4 @@ def link
   puts status
 end
 
-$any_phrase = "Do a "
+$any_phrase = "Do A Barrel Roll! "
